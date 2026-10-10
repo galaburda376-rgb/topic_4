@@ -1,0 +1,7 @@
+{
+  "model": "TF-IDF + LogisticRegression",
+  "val_accuracy": 0.9411111111111111,
+  "test_accuracy": 0.9422222222222222,
+  "n_errors": 52,
+  "n_test": 900
+}
