@@ -1,0 +1,10 @@
+{
+  "baseline_test_accuracy": 0.9422222222222222,
+  "rnn_test_accuracy": 0.9422222222222222,
+  "cnn_test_accuracy": 0.9422222222222222,
+  "ensemble_test_accuracy": 0.9422222222222222,
+  "best_weight_rnn": 0.9500000000000001,
+  "best_weight_cnn": 0.04999999999999993,
+  "vocab_size": 311,
+  "n_errors_ensemble": 52
+}
